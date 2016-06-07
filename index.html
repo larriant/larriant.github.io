@@ -3,31 +3,40 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
+<div class="meinten">
+  <h1 class="">Me in 10 Seconds</h1>
+  <ul>
+    <li>First Reason why I am the best person in the world.</li>
+    <li>Second reason why I am the best</li>
+    <li>And finally the THird!!</li>
+  </ul>
+</div>
+
+<div class="recent">
+  <h1>Recent Posts</h1>
+  <ul class="recent-posts">
+    {% for post in paginator.posts %}
+    <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
+        <small>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+        </small>
       </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-  </article>
-  {% endfor %}
+     </li>
+       {% endfor %}
+  </ul>     
+  <a href="allposts">(See All)</a>
 </div>
+<div class="Contact">
+  <h1>Contact</h1>
+  <p>Email me at <a href="mailto:me@julyandavey.com">me@julyandavey.com</a>.</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+  <form action="https://formspree.io/me@julyandavey.com" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+  </form>
 </div>
+  
+  
