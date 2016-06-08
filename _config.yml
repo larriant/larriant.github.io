@@ -4,9 +4,12 @@ permalink:           pretty
 # Setup
 title:               Julyan Davey
 tagline:             King of The World
+name: Julyan Davey
+description: The Musings of Julyan Davey
 url:                 http://www.julyandavey.com
 paginate:            1
 baseurl:             ""
+analytics_id: UA-78883039-1
 
 # Assets
 #

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Recent Posts
+---
+
+<div class="recent">
+  <h1> All Recent Posts</h1>
+  <ul class="recent-posts">
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+      <small>
+	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      </small>
+    </a>
+  </li>
+  {% endfor %}
+  </ul>
+  
+</div>

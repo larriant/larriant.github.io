@@ -15,7 +15,7 @@ title: Home
 <div class="recent">
   <h1>Recent Posts</h1>
   <ul class="recent-posts">
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts limit: 5 %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -26,17 +26,39 @@ title: Home
      </li>
        {% endfor %}
   </ul>     
-  <a href="allposts">(See All)</a>
+  <a href="{{ site.baseurl }}/allrecent">(See All)</a>
 </div>
 <div class="Contact">
   <h1>Contact</h1>
   <p>Email me at <a href="mailto:me@julyandavey.com">me@julyandavey.com</a>.</p>
 
-  <form action="https://formspree.io/me@julyandavey.com" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-  </form>
+  <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:none; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//julyandavey.us10.list-manage.com/subscribe/post?u=8200d05bb4733d2846de99871&amp;id=5c981a2121" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to my mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8200d05bb4733d2846de99871_5c981a2121" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+  <div class="favicons">
+    <a class="favicon" href="https://www.facebook.com/julyan.davey"><img src="./public/facebook.png" height="40px"></a>
+    <a class="favicon" href="https://github.com/larriant"><img src="./public/github.png" height="40px"></a>
+    <a class="favicon" href="https://twitter.com/JulyanDavey"><img src="./public/twitter.png" height="40px"></a>
+    <a class="favicon" href="{{ site.baseurl }}/atom.xml"><img src="./public/rss.png" height="40px"></a>
+  </div>
 </div>
   
   

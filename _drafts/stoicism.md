@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stoicism
+comments: true
 ---
 
 After reading  The Obstacle is the Way  by Ryan Holiday, I have become fascinated by Stoic Philosophy. The works of Marcus Aurelius, Seneca and Epicurus, thinkers from almost two thousand years ago, can still be applied to so many aspects of modern life. They embody a form of  life philosophy  which refuses to spend its time with vague hypothesizing but instead attempts to answer questions that can help us all to live a better, happier life. In the past few days, I have devised a mechanism for dealing with the problems and obstacles in my own life, that I will be laying out for you in this blog post.
