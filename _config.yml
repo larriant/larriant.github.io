@@ -3,32 +3,26 @@ permalink:           pretty
 encoding: utf-8
 
 # Setup
-title:               Julyan Davey
-tagline:             King of The World
+title: Julyan Davey
+tagline: what what what
 name: Julyan Davey
-description: The Musings of Julyan Davey
-url:                 http://www.julyandavey.com
-paginate:            1
-baseurl:             ""
+description: Julyan Davey's Blog
+url: http://www.julyandavey.com
+paginate: 1
+baseurl: ""
 analytics_id: UA-78883039-1
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  sass_dir: _sass
+  style: :compressed
 
 # Custom vars
-version:             2.0.0
+version: 2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo: https://github.com/poole/poole
 
 # Gems
 gems:

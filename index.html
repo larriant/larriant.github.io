@@ -3,19 +3,10 @@ layout: default
 title: Home
 ---
 
-<div class="meinten">
-  <h1 class="">Me in 10 Seconds</h1>
-  <ul>
-    <li>First Reason why I am the best person in the world.</li>
-    <li>Second reason why I am the best</li>
-    <li>And finally the THird!!</li>
-  </ul>
-</div>
-
 <div class="recent">
   <h1>Recent Posts</h1>
   <ul class="recent-posts">
-    {% for post in paginator.posts limit: 5 %}
+    {% for post in site.posts limit: 3 %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -28,6 +19,19 @@ title: Home
   </ul>     
   <a href="{{ site.baseurl }}/allrecent">(See All)</a>
 </div>
+
+<div class="meinten">
+  <h1 class="">About Me</h1>
+  <p>Hi! I'm Julyan. Here's me in 10 seconds: </p>
+  <ul>
+    <li><a href="">Lover of Life.</a></li>
+    <li>Philosoper: I love to think Deep. On rationality, mindfulness and the future. 
+    <li>Programmer: Working on Technology for Learning and Self-Improvement.</li>
+    <li>Traveller: Just returned from 6 Months in South America. <a href="">(Travel Tips)</a></li>
+    <li>Hip Hop Fanatic. <a href="">(5 Classics)</a> MindFuck Movie Mentalist. <a href="">(My favs)</a></li>
+  </ul>
+</div>
+
 <div class="Contact">
   <h1>Contact</h1>
   <p>Email me at <a href="mailto:me@julyandavey.com">me@julyandavey.com</a>.</p>
