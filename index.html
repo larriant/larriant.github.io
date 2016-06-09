@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="recent">
-  <h1>Recent Posts</h1>
+  <h1 class="post-title">Recent Posts</h1>
   <ul class="recent-posts">
     {% for post in site.posts limit: 3 %}
     <li>
@@ -28,7 +28,9 @@ title: Home
     <li>Philosoper: I love to think Deep. On rationality, mindfulness and the future. 
     <li>Programmer: Working on Technology for Learning and Self-Improvement.</li>
     <li>Traveller: Just returned from 6 Months in South America. <a href="">(Travel Tips)</a></li>
-    <li>Hip Hop Fanatic. <a href="">(5 Classics)</a> MindFuck Movie Mentalist. <a href="">(My favs)</a></li>
+    <li>Fundraising for Charity:  <a href="">Completed Lands End to John O'Groats Cycle.</a></li>
+    <li>Hip Hop Fanatic. <a href="{{ baseurl }}/hiphopclassics">(5 Classics)</a> MindFuck Movie Mentalist. <a href="{{ baseurl }}/mindfuckfilms">(My favs)</a></li>
+    
   </ul>
 </div>
 
@@ -39,9 +41,6 @@ title: Home
   <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:none; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
 <form action="//julyandavey.us10.list-manage.com/subscribe/post?u=8200d05bb4733d2846de99871&amp;id=5c981a2121" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
