@@ -1,6 +1,15 @@
 ---
-layout: default
+layout: page
 title: 5 Hip Hop Classics
 ---
-
-<p>Testing</p>
+<p> 2 sentences on why Classic Hip Hop is the best!</p>
+{% for album in site.data.classichiphop %}
+<div class="list">
+  <img src="/public/{{ album.Image }}">
+  <div class="text">
+  <p><b>Title:</b> {{ album.Album }}</p>
+  <p><b>Artist:</b> {{ album.Artist }}</p>
+  <p><b>Best Rhyme:</b> "{{ album.BestLine }}"</p>
+  </div>
+</div>
+{% endfor %}

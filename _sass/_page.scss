@@ -1,0 +1,26 @@
+.list {
+  margin: 50px auto;
+  padding: 10px;
+  border: 2px solid black;
+  width: 90%;
+  overflow: hidden;
+}
+
+.list img {
+  max-height: 200px;
+  margin: 0px 30px 0px 10px;
+  float: left;
+  @media(max-width:800px) {
+    margin: 10px auto;
+    float: none;
+  }
+}
+
+.list .text {
+  margin-top: 10px;
+  line-height: 25px;
+}
+
+.page img {
+  margin: 10px auto;
+}
