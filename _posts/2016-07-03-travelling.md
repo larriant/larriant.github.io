@@ -1,0 +1,84 @@
+---
+layout: post
+title: 7 Tips for Authentic Travel
+---
+## Introduction
+Recently, I returned home from travelling around South America for 6 months. In this post I will record what I learnt about how to have the best possible experiences whilst remaining true to yourself. Several people have asked me for travelling advice, so this post is partly for them. But it's also to lay out my thoughts now, whilst they are still fresh, so that I can return to them later when I'm planning future forays overseas. So here I present my 7 top tips for long term travel!
+
+## 1. Plan Ahead: Why are you travelling?
+One of the most important things to figure out before you set off on your trip is exactly why you are travelling. Many people jump into round the world travel without really knowing what they are hoping to get out of the experience. When I set off I just wanted to leave my normal life behind and do something different for a while. But I realised that this wasn't particularly helpful because there are just so many different possibilities. The more specific you can be about what you want to get out of your trip, the better your experience will be! 
+
+During my trip I realised that I was in South America because I wanted to "achieve" three things:
+
+1. Conquer Fear
+2. Learn Spanish
+3. Meet local people
+
+That seems simple. But if you've decided why you're doing something beforehand it means you can always return to your answer when you have decisions to make. It allows you to avoid following the crowd and do exactly what you want. You can be yourself in a foreign land. 
+
+> "Not all those who wander are lost"  
+- *J.R.Tolkien*
+
+## 2. Don't Plan Ahead. Be Spontaneous!
+At the same time, there is always the urge when travelling to plan ahead. To say "This month I'm going to be in Italy, then I'll go to Greece for 2 weeks". You have to fight this planning urge! Why you ask?
+
+Two reasons:
+
+### 1) Hard to be spontaneous
+If you've got your whole trip planned out in advance then you miss out on the beauty of the randomness of travel. When you meet someone cool, you can't just stay and hang out for a while. If you hear about an interesting new place you should be able to head straight there. But that's difficult if you have to stick to a schedule. Those random places that no-one back home has heard of are often the best.
+
+> "The traveller sees what he sees. The tourist sees what he has come to see."   
+- *G.K.Chesterson*
+
+### 2) Creates Anxiety
+If the master plan that you've created doesn't come to fruition, you'll feel unhappy. You've spent a while visualising the perfect two weeks you were going to have in Greece. Then your flight is cancelled, your bus crashes or more likely you get ill. If you don't plan, when bad things happen, you can just say: "Fair Enough! I don't have anywhere to be." Not planning also forces you to enjoy the place you are in now. Rather than constantly thinking about the future. 
+
+> "What day is it?", asked Winnie the Pooh   
+> "It's today," squeaked Piglet   
+> "My favourite day," said Pooh.
+
+
+## 3. Get into the culture.
+If you want to have heightened experiences you've got to make an effort to learn about the history, art and attitudes of the country you are visiting. 
+
+For example, if you're walking around the site of an Incan-Spanish battle, there is a huge difference in the quality of your experience if you know something about the history. If you haven't bothered to learn anything, you walk around, listen to your guide, take a few photos and then you feel satisfied enough to tick it off your checklist of Trip Advisor places to visit. But if you've actually learnt something about the Incans or the Spanish, then the battle site will mean so much more to you. Maybe you know why the site is important for historians or how the people fought at the time. Knowing these things will mean you can have a more vivid experience. One you are far more likely to remember. 
+
+It's the same with art. If you listen to some local music or films you will start to understand what makes the country tick. And how and why it is different to the rest of the world.
+
+> "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."  
+- *Marcel Proust*
+
+## 4. Learn the Language
+The one thing that most improved my trip was learning Spanish. 
+You might think "do I really need to spend time learning the language when there are people in every country who can speak English?" YES, make the effort! 
+
+Firstly, there's a strong link between language and culture. So to be able to really engage with the culture you've got to learn the language. Secondly, if one of your aims is to have different experiences to back home, then the people you need to meet are those who can't speak any English. They are the most likely to give you a new take on life and be unalike your friends back home.
+
+Say you're sat on a crazy long 20-hour bus ride. If all you can speak is English, you'll just sit uncomfortably reading your Lonely Planet. But if you've learnt the local language you can talk to the people around you. And that will open up whole worlds of possibility! People will suggest places you should visit, most of which you won't find in the normal guidebooks. These places are usually the coolest because most tourists don't go to them so you are able to have different experiences to the classic traveller. There were so many times on my trip that talking to people in their own language led to fantastic experiences. They invited me to stay in their houses, took me to music concerts and shared their feelings about their country. Even if you're just travelling for a short time, it's definitely worth learning the basics, because the local people will appreciate your efforts so much. It's just a lot of fun too! 
+
+> "Peculiar travel suggestions are dancing lessons from God."  
+- *Kurt Vonnegut*
+
+## 5. You don't have to be rich to travel. In fact, best not to be!
+Whilst there seems to be a growing culture of buying experiences, the best travelling adventures are nearly always free. Bought experiences never compare to when you meet someone special or when you have your own adventures. If you have money I think you are actually less likely to have life changing experiences travelling. Ask yourself: Are you more likely to meet interesting people in a £200 a night luxury hotel or a £10 hostel? When you have some financial pressure you'll have to be more inventive about finding fun things to do cheaply. This will force you to have unique travel experiences which you will remember for the rest of your life. If I am ever a rich traveller I will set a limit on what I can spend each day. To artificially create the financial pressure towards the best experiences!
+
+## 6. Less is More. Fight the FOMO!
+There is always a pressure to try and do everything that a country has to offer. FOMO (or Fear of Missing Out) is a big part of this pressure because you hear stories about so many places that sound really cool and you don't want to miss out on anything! But you really can't do it all. And if you try, it will make each place you visit less valuable. If you really want to get to know a place and its people, you have to stay there for a while, not just a weekend! You have to give it a chance to show it's best side, for randomness to take its toll and unusual things to happen. 
+
+## 7. Conquering Fear
+To explain what I have learnt about conquering fear, I'm going to tell a story about one of the first cool people I met. Funnily enough, this was on the plane about an hour after setting off from Heathrow. I had a competition with my friend Tom, who I was travelling with, to see who could find out the coolest thing about the people we were sitting next to on the plane. Tom was sat next to a Musician who looked like Pharell Williams who later invited us to one of his concerts in Rio. But my seating companion really changed how I view risk and fear. He was on his way to Antarctica to complete a world first trip on a new route to the South Pole! I asked, "So have you done anything like this before?" And he proceeded to tell me about his solo crossing of the Atlantic and climb of Everest! Wow! 
+
+At the time I was feeling a bit nervous about being thousands of miles from home so I asked him how he dealt with the fact that all of these things come with real risks. If something went wrong on his Antarctica expedition, no-one was going to come and get him. He replied that you should think about the risks of doing something before you leave home when you decide whether or not to attempt it. But after that decision you should not think about it again. And when the fear arises you just have to say to yourself: "Not helpful brain! I've already decided." At times on my trip I imagined a monkey on my shoulder who repeatedly prods and asks "What if you die? What if this? What if that?" My reply: "Go away monkey!"
+
+> "What gives value to travel is fear. It is the fact that, at a certain moment, when we are so far from our own country … we are seized by a vague fear, and an instinctive desire to go back to the protection of old habits … this is why we should not say that we travel for pleasure. There is no pleasure in travelling, and I look upon it more as an occasion for spiritual testing."  
+- *Albert Camus*
+
+## Checklist Tourism vs Authenic Travel
+In general these tips can be summarised as two approaches to travelling. 
+
+The first I call "Checklist Tourism". An attempt to tick the boxes on the must see sites in a country. Done primarily for others. So you can post a thousand jealousy inducing photos on facebook. And later wow your friends and family with the places you have visited. Your trip will resemble the hundreds of other travellers who visit the same spots.
+
+The second I call Authentic Travel. This is travelling primarily for your own development. You have some goal in mind. You aim to have experiences that will change how you see the world and your place in it. At the end of your trip you will be able to look back on countless unique moments that only you, and no other traveller has experienced.
+
+> "Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do."  
+– *Mark Twain*
