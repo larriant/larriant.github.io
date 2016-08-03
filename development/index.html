@@ -1,0 +1,51 @@
+---
+layout: page
+title: Programming and Web Development
+---
+<p> I am a self taught full-stack programmer and web designer.</p>
+
+<h1>Technologies I've used in the past:</h1>
+<p>Programming Languages:</p>
+<ul>
+  <li>Python</li>
+  <ul>
+    <li>Django</li>
+    <li>Flask</li>
+  </ul>
+  <li>C</li>
+  <li>C#</li>    
+  <li>Ruby</li>
+  <ul>
+    <li>Rails</li>
+  </ul>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <ul>
+    <li>Wordpress Config</li>
+  </ul>
+</ul>
+
+<h1> My Projects and Work History </h1>
+ 
+<h2>LOVESPACE</h2>
+
+<h2>The News Explained</h2>
+
+<h2>Tzundoku</h2>
+
+<h2>Project Anmo</h2>
+
+
+<p> You can view more of my work 
+
+<p> Here is a selection of 5 of my favourite classic hip hop albums. </p>
+{% for album in site.data.classichiphop %}
+<div class="list">
+  <img src="/public/{{ album.Image }}">
+  <div class="text">
+  <p><b>Title:</b> {{ album.Album }}</p>
+  <p><b>Artist:</b> {{ album.Artist }}</p>
+  <p><b>Best Rhyme:</b> "{{ album.BestLine }}"</p>
+  </div>
+</div>
+{% endfor %}
