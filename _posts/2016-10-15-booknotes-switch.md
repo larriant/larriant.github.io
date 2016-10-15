@@ -2,9 +2,10 @@
 layout: post
 title: Book Notes - Switch by Dan & Chip Heath 
 ---
-*I've decided to start writing up notes on the books I read and publishing them here on my blog!*
+*I've decided to start writing up notes on the books I read and
+publishing them here on my blog! So here's the first.
 
-[Switch Book Cover](../public/switch.jpg)
+[Switch Book Cover]{{ site.url }}/public/switch.jpg)
 Aim of the book: The Heaths attempt to produce a methodology for how to
 make change happen.
 
