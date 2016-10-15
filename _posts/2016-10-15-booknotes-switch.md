@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Overcoming Obstacles
+title: Switch by Dan & Chip Heath 
 ---
-
-# Switch by Dan & Chip Heath 
 
 Aim of the book: The Heaths attempt to produce a methodology for how to
 make change happen.
@@ -14,6 +12,7 @@ Elephant: emotional brain.
 To make someone change: You must reach both Rider and Elephant.
 
 ## Direct the Rider 
+
 ### Find the Bright Spots 
 Normally: Rider has a problem-seeking mindset: 
 "What's broken, and how do we fix it?"
@@ -92,6 +91,7 @@ critical moves.
 Back up your destination postcard with a good behavioural script.  
 
 ## Motivate the Elephant 
+
 ### Find the Feeling
 Find ways to help others see the problems or solutions in ways that
 influence emotions, not just thought.
