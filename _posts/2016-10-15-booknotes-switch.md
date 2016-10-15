@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Notes - Switch by Dan & Chip Heath 
+title: Notes on 'Switch' 
 ---
 *I've decided to start writing notes on the books I read and
 publishing them here on my blog! So here's the first.*
@@ -26,26 +26,27 @@ Instead: Search for successful efforts, worth emulating.
 
 Question: "What's working and how can we do more of it?"
 
-Example:  
-"Classic Therapy": What are the roots of your problem? Does it trace
-back to something in your childhood?
+#### Example:  
+"Classic Therapy":  
+What are the roots of your problem? Does it trace back to something in your childhood?
 
-"Solutions Focused Therapy": When was the last time you saw a little bit of the miracle, even just
-for a short time?
+"Solutions Focused Therapy":  
+When was the last time you saw a little bit of the miracle, even just for a short time?
 
-Action Plan:  
+#### Action Plan:  
 Go investigate the most successful (villagers/ managers/moments in the
 day).
 
-Advantages: 
+#### Advantages: 
+
 1. Solution is usually native. Comes from the group that you are
-   trying to help. Therefore easier to introduce.
+   trying to help. Therefore easier to introduce. 
    
 2. Overall topic, like "What can you do to make your child healthier?"
-   is too big and loaded to take on at once.
+   is too big and loaded to take on at once. 
    
 3. Fights "Analysis Paralysis" - when the rider sees problems
-   everywhere and over-analyzes.
+   everywhere and over-analyzes. 
    
 4. Prevents fixation on TBU information (True but Useless)
 
@@ -54,43 +55,44 @@ Advantages:
 
 ### Script the Critical Moves 
 Give the Rider a script that explains how to act.  
+
 Convert your ambiguous goals into concrete behaviours.
 
-Set Behavioural Goals
+#### Set Behavioural Goals: 
 + Such as meet for a review once a week. 
 + Or never buy full fat milk.
 
-Default Plan
+#### Default Plan: 
 + Rider normally runs on autopilot. 
 + Following the pre-programmed habits and routines.  
 
 Decision Paralysis - more options, even good ones, can freeze us and
 make us retreat to the default plan.
 
-Thus scripting the critical moves reduces rider exhaustion.
+Thus scripting the critical moves reduces rider exhaustion. 
 More choices = More exhausted rider.
-   
-   
+    
 ### Point to the Destination 
 Create a destination postcard.  
+
 This is a vivid picture from the near future that shows what could be
 possible.
 
-Destination postcards do double duty: 
+#### Destination postcards do double duty: 
 + they show the rider where you're headed. 
 + they show the Elephant why the journey is worthwhile.
 
-Problem of Rationalization: 
-You decide just to have 1 glass of wine.
-Fill Glass to brim. 
-Or trade tomorrow's glass for today's.
+#### Problem of Rationalization:
 
-Black and White Goal: 
-An all-or-nothing goals such as "No wine ever".
++ Where you decide to do something like to have just 1 glass of wine. 
 
-But it's essential to marry your long-term goal with short-term
-critical moves.
++ Then you rationalize that surely it's okay to fill your 1 glass to the
+brim. Or to trade tomorrow's 1 glass to have 2 today!
 
+#### Solution: Black and White Goal  
++ An all-or-nothing goals such as "No wine ever".
+
+It's essential to marry your long-term goal with short-term critical moves.
 Back up your destination postcard with a good behavioural script.  
 
 ## Motivate the Elephant 
@@ -103,10 +105,11 @@ Trying to fight inertia and indifference with analytical arguments is
 like tossing a fire extinguisher to someone who's drowning. The
 solution doesn't match the problem.
 
-Example of Re-Mission (a game for young Chemotherapy patients) 
+#### Example of Re-Mission (a game for young Chemotherapy patients) 
 Roxxi, the nanobot boldly defeating cancer, by taking chemotherapy and
 antibiotics which fuel his ray gun.
 
+#### Positive vs Negative emotions
 If you need quick and specific action, then negative emotions might
 help. But most of the time when change is needed, it's not
 a stone-in-the-shoe situation.
@@ -142,7 +145,7 @@ Pay off a single debt.
 
 "if some example of successful change could somehow be achieved
 quickly, it might be possible to use that to set other changes in
-motion" Celebrate every incremental victory.
+motion" - Celebrate every incremental victory!
 
 Miracle Scale - 10 is the miracle. But what are the small milestones
 that are attainable and visible on the way to the eventual
@@ -150,9 +153,9 @@ destination?
 
 Accentuate positive. Emphasize the next goal to fulfill.
 
-Select small wins with two traits: 
-1) They're meaningful.  
-2) They're within immediate reach.
+#### Select small wins with two traits: 
+1. They're meaningful.  
+2. They're within immediate reach.
 
 ### Grow your People 
 How can you make your change a matter of identity rather than of
@@ -161,11 +164,11 @@ consequences?
 When people make choices they tend to rely on one of two basic models
 of decision making: the consequences model or the identity model. 
 
-Consequences model: Weighing the costs and benefits of our options and
-making the choice that maximises our satisfaction.  
+#### Consequences model: 
+Weighing the costs and benefits of our options and making the choice that maximises our satisfaction.  
 
-Identity model: We ask ourselves: Who am I?
-What kind of situation is this? What would someone like me do in this
+#### Identity model: 
+We ask ourselves: Who am I? What kind of situation is this? What would someone like me do in this
 situation?
 
 This model explains the way most people vote, which contradicts our
@@ -182,18 +185,20 @@ person who would make this change".
 
 "foot in the door" technique - do something small to convince people
 they are "concerned citizens" before asking for something bigger.
-Example of billboards in peoples lawn study.
+Example of billboards in people's lawns study.
 
-Fixed versus Growth Mindset 
+#### Fixed versus Growth Mindset 
 
 Fixed Mindset: belief that their abilities are basically static. 
+
 Growth Mindset: belief that abilities are like muscles-they can be built up with practice.
 
 The growth mindset can be taught and it can change lives.  
 Failure should be seen as part of the learning process.
 
 ## Shape the Path 
-Fundamental attribution error: 
+
+#### Fundamental attribution error: 
 People have a systematic tendency to ignore the situational forces
 that shape other people's behaviour.
 
@@ -246,7 +251,7 @@ out) when you encounter a certain trigger (the morning).
 Example: pre-loading decisions. Asking students to decide when they
 will do the essay.
 
-Tool: The humble checklist.  
+#### Tool: The humble checklist.  
 Example of Atul Gawande's Intensive Care Unit where he used simple
 checklists to dramatically reduce ward deaths.
 
