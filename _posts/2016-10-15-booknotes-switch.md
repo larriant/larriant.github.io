@@ -2,7 +2,7 @@
 layout: post
 title: Book Notes - Switch by Dan & Chip Heath 
 ---
-*I've decided to start writing up notes on the books I read and
+*I've decided to start writing notes on the books I read and
 publishing them here on my blog! So here's the first.*
 
 ![Switch Book Cover]({{ site.url}}/public/switch.jpg){:class="book-images"}
@@ -26,19 +26,18 @@ Instead: Search for successful efforts, worth emulating.
 
 Question: "What's working and how can we do more of it?"
 
-Example: 
-
+* Example: 
 "Classic Therapy": What are the roots of your problem? Does it trace
 back to something in your childhood?
 
 "Solutions Focused Therapy": When was the last time you saw a little bit of the miracle, even just
 for a short time?
 
-Action Plan: 
+* Action Plan: 
 Go investigate the most successful (villagers/ managers/moments in the
 day).
 
-Advantages:
+* Advantages:
 1. Solution is usually native. Comes from the group that you are
    trying to help. Therefore easier to introduce.
    
