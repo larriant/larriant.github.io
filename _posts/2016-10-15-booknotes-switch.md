@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Notes: Switch by Dan & Chip Heath 
+title: Book Notes - Switch by Dan & Chip Heath 
 ---
 *I've decided to start writing up notes on the books I read and publishing them here on my blog!*
 
