@@ -5,13 +5,13 @@ title: Book Notes - Switch by Dan & Chip Heath
 *I've decided to start writing up notes on the books I read and
 publishing them here on my blog! So here's the first.*
 
-![Switch Book Cover]({{ site.url
-}}/public/switch.jpg){:class="book-images"}
+![Switch Book Cover]({{ site.url}}/public/switch.jpg){:class="book-images"}
 
 The aim of the book: to produce a methodology for how to
 make change happen in the world.
 
 Analogy of a rider on an elephant trying to move in a direction. (towards change)
+
 Rider: rational brain.  
 Elephant: emotional brain.
 
@@ -27,12 +27,11 @@ Instead: Search for successful efforts, worth emulating.
 Question: "What's working and how can we do more of it?"
 
 Example: 
-"Classic Therapy"
-What are the roots of your problem? 
-Does it trace back to something in your childhood?  
 
-"Solutions Focused Therapy"
-When was the last time you saw a little bit of the miracle, even just
+"Classic Therapy": What are the roots of your problem? Does it trace
+back to something in your childhood?
+
+"Solutions Focused Therapy": When was the last time you saw a little bit of the miracle, even just
 for a short time?
 
 Action Plan: 
@@ -85,7 +84,7 @@ Destination postcards do double duty:
 Problem of Rationalization: 
 You decide just to have 1 glass of wine.
 Fill Glass to brim. 
-Or trade tomorrow's glass for todays.
+Or trade tomorrow's glass for today's.
 
 Black and White Goal: 
 An all-or-nothing goals such as "No wine ever".
@@ -106,14 +105,14 @@ like tossing a fire extinguisher to someone who's drowning. The
 solution doesn't match the problem.
 
 Example of Re-Mission (a game for young Chemotherapy patients) 
-Roxxi, the nanobot boaldly defeating cancer, by taking chemotherapy and
+Roxxi, the nanobot boldly defeating cancer, by taking chemotherapy and
 antibiotics which fuel his ray gun.
 
 If you need quick and specific action, then negative emotions might
 help. But most of the time when change is needed, it's not
 a stone-in-the-shoe situation.
 
-Positive emotions are designed to "broaden and build" our repetoire of
+Positive emotions are designed to "broaden and build" our repertoire of
 thoughts and actions.  Joy, for example, makes us want to play.
 Interest, broadens what we want to investigate.
 
@@ -125,7 +124,7 @@ we need to encourage open minds, creativity and hope.
 One way to motivate action: Make people feel as though they are
 already closer to the finish line than they might have thought.
 
-Example: Don't publicy announce a charity fundraiser until you've
+Example: Don't publicly announce a charity fundraiser until you've
 already got 50% of the money in the bag.
 
 Look for the first two stamps to put on your team's cards. 
@@ -142,7 +141,7 @@ it: You've got to break down the task.  Make the change small enough
 that people can't help but score a victory. Do one page of writing.
 Pay off a single debt.
 
-"if some example of succesful change could somehow be achieved
+"if some example of successful change could somehow be achieved
 quickly, it might be possible to use that to set other changes in
 motion" Celebrate every incremental victory.
 
@@ -186,7 +185,7 @@ person who would make this change".
 they are "concerned citizens" before asking for something bigger.
 Example of billboards in peoples lawn study.
 
-Fixed versus Growth Mindest 
+Fixed versus Growth Mindset 
 
 Fixed Mindset: belief that their abilities are basically static. 
 Growth Mindset: belief that abilities are like muscles-they can be built up with practice.
@@ -195,7 +194,7 @@ The growth mindset can be taught and it can change lives.
 Failure should be seen as part of the learning process.
 
 ## Shape the Path 
-Fundametal attribution error: 
+Fundamental attribution error: 
 People have a systematic tendency to ignore the situational forces
 that shape other people's behaviour.
 
@@ -219,7 +218,7 @@ systematically about accidents by highlighting three key periods of
 time.
 
 Pre-event interventions - includes anything that would tend to prevent
-wrecks from happening: better highway lighting, antilock breaks.
+wrecks from happening: better highway lighting, anti-lock breaks.
 
 Event interventions - accept that crashes will happen and ask
 ourselves how we can reduce the chances of injury. e.g. seat belts.
