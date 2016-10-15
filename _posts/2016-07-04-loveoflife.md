@@ -5,7 +5,21 @@ published: false
 ---
 
 ## Introduction
++ Why a Philosophy of Life?
++ Pain vs Suffering - Truth vs Interpretation
++ Applied to many areas of human life.
+
 In the last few years I have been developing a Philosophy of Life that I want to outline today. 
+
+## The Choice
+For a while I have been thinking that there is a big gap between the truth of how the world is and our emotional reaction t1o it. We cannot change the nature of the world we live in. But we can change the meaning that we ascribe to the events One example of this mindset I discovered was Viktor Frankl's experiences in the Auschwitz concentration camp during the Holocaust. In his book, "Man's Search for Meaning", he recounts how he was able to overcome the trauma of the Holocaust by changing his response to the world that he was presented with. 
+
+>“Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” —Viktor Frankl
+
+One example of this is the difference between Pain and Suffering. Pain is the bodies response to a negative stimulus through the central nervous system. It is a message that says "Your foot's broken. Stop Walking!".
+Suffering, on the other hand, is the meaning that we attribute to the pain. It is the emotional response to pain. How we rationalise it. Thoughts such as "Why me?", "Life is so unfair!" or "This sucks". But actually it goes further than this. Attempts at using this methodology to help people with chronic pain have uncovered a connection between pain and suffering. They seem to work in a cycle. Suffering can actually increase the physical pain felt by the patient. Which can then increase the suffering and so on.
+
+In this essay, I'm going to apply this idea of the seperation between the reality of the world and the maps we have of it to serveral areas where I think people go astray in there thinking about the big issues of life. 
 
 But what exactly is a Philosophy of Life?
 
@@ -48,7 +62,7 @@ Nobody knows or I think will ever know the truth of existence: why we are here? 
 
 You're can respond to the existential problem in two ways. Either you can be angry at the universe for something that you can't control (that you will die). Or you can try and make the best use of what you can control: how ever much time you have left. Fill your life with excitement, love and joy!
 
-## What's a Flower?
+## What's a flower?
 So as there are two ways to look at the fact you will die, I think there are also two ways to look at the world. Take a flower.
 
 The probability of your existence is infinitesimally small. It is a miracle that you are able to exist and experience the world. Even the probability that your particular sperm fertilized the egg is millions to ones. Then there is the probability that your parents met. That your line did not die out generations ago. Then there is the probability of humanity emerging in the first place. The Earth had to be water based, it had to be the right distance from the Sun. It had to have an atmosphere. But even more amazing is the miraculously unexplainable universe. For whatever reason, god or no god, that it exists, it¡¯s just incredible. 
