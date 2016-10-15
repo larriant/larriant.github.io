@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Switch by Dan & Chip Heath 
+title: Book Notes: Switch by Dan & Chip Heath 
 ---
+*I've decided to start writing up notes on the books I read and publishing them here on my blog!*
 
+[Switch Book Cover](../public/switch.jpg)
 Aim of the book: The Heaths attempt to produce a methodology for how to
 make change happen.
 
@@ -12,7 +14,6 @@ Elephant: emotional brain.
 To make someone change: You must reach both Rider and Elephant.
 
 ## Direct the Rider 
-
 ### Find the Bright Spots 
 Normally: Rider has a problem-seeking mindset: 
 "What's broken, and how do we fix it?"
@@ -91,7 +92,6 @@ critical moves.
 Back up your destination postcard with a good behavioural script.  
 
 ## Motivate the Elephant 
-
 ### Find the Feeling
 Find ways to help others see the problems or solutions in ways that
 influence emotions, not just thought.
