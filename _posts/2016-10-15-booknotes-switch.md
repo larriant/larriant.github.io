@@ -8,18 +8,19 @@ publishing them here on my blog! So here's the first.*
 ![Switch Book Cover]({{ site.url
 }}/public/switch.jpg){:class="book-images"}
 
-The Heath brother's aim for the book: to produce a methodology for how to
-make change happen.
+The aim of the book: to produce a methodology for how to
+make change happen in the world.
 
+Analogy of a rider on an elephant trying to move in a direction. (towards change)
 Rider: rational brain.  
 Elephant: emotional brain.
 
 To make someone change: You must reach both Rider and Elephant.
 
 ## Direct the Rider 
+
 ### Find the Bright Spots 
-Normally: Rider has a problem-seeking mindset: 
-"What's broken, and how do we fix it?"
+Normally: Rider has a problem-seeking mindset: "What's broken, and how do we fix it?"
 
 Instead: Search for successful efforts, worth emulating.
 
@@ -95,6 +96,7 @@ critical moves.
 Back up your destination postcard with a good behavioural script.  
 
 ## Motivate the Elephant 
+
 ### Find the Feeling
 Find ways to help others see the problems or solutions in ways that
 influence emotions, not just thought.
