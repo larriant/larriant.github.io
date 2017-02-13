@@ -411,8 +411,8 @@ those arrangements and invent new ones.
 
 
 > "There are those that look at things the way they are, and ask why?
-> I dream of things that never were, and ask why not?"
-> - Robert F. Kennedy 
+I dream of things that never were, and ask why not?" - Robert F.
+Kennedy
 
 Liberals make two points profoundly important for the health of
 a society: 
