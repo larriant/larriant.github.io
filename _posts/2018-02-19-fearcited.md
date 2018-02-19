@@ -19,8 +19,8 @@ I’ve travelled on my own quite a bit in the past which was always challenging 
 
 Here in Berlin my emotional life has been like a yoyo swinging back and forth between the two polar extremes of anxiety and excitement.
 
-## What's being Featcited?
-But I’ve realised that I should embrace these emotions. In fact my best times here are when I feel them simultaneously. An emotion I will call being *Fearcited*! Chills on the back of your neck. Heart rate raised. A stomach in knots. Your mind is shouting out “Don’t do it!” . “Go home!” Take the easy, safe option. Stay in bed where it’s warm and nothing can go wrong. But your body acts anyway. You find yourself almost robotically moving towards your fear without a second thought.
+## What's being Fearcited?
+I’ve realised that I should embrace these emotions. In fact my best times here are when I feel them simultaneously. An emotion I will call being **Fearcited**! Chills on the back of your neck. Heart rate raised. A stomach in knots. Your mind is shouting out “Don’t do it!” . “Go home!” Take the easy, safe option. Stay in bed where it’s warm and nothing can go wrong. But your body acts anyway. You find yourself almost robotically moving towards your fear without a second thought.
 
 It crops up when I’m on the edge of my comfort zone. When I’m doing new things that could go wrong. Things that could make me look like an idiot.
 
