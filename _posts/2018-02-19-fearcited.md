@@ -19,7 +19,8 @@ I’ve travelled on my own quite a bit in the past which was always challenging 
 
 Here in Berlin my emotional life has been like a yoyo swinging back and forth between the two polar extremes of anxiety and excitement.
 
-But I’ve realised that I should embrace these emotions. In fact my best times here are when I feel them simultaneously. An emotion I will call being “Fearcited”! Chills on the back of your neck. Heart rate raised. A stomach in knots. Your mind is shouting out “Don’t do it!” . “Go home!” Take the easy, safe option. Stay in bed where it’s warm and nothing can go wrong. But your body acts anyway. You find yourself almost robotically moving towards your fear without a second thought.
+## What's being Featcited?
+But I’ve realised that I should embrace these emotions. In fact my best times here are when I feel them simultaneously. An emotion I will call being *Fearcited*! Chills on the back of your neck. Heart rate raised. A stomach in knots. Your mind is shouting out “Don’t do it!” . “Go home!” Take the easy, safe option. Stay in bed where it’s warm and nothing can go wrong. But your body acts anyway. You find yourself almost robotically moving towards your fear without a second thought.
 
 It crops up when I’m on the edge of my comfort zone. When I’m doing new things that could go wrong. Things that could make me look like an idiot.
 
@@ -34,10 +35,12 @@ When you push yourself to be “Fearcited” there’s a good chance you will co
 
 I’m “Fearcited” when I do the things that are most important. The things I will look back on from my death bed and say “Wow that was something special”. Being in Berlin has helped me to realise that putting myself in situations where I feel "Fearcited" and then overcoming them is a pathway to growing myself as a human being. 
 
+## Flow and Fearcited
 And I’m not the only one to think this. I’ve seen similar ideas pop up in a few places. It’s at the heart of [Flow Psychology]. This is the idea that human beings are at their peak when they are working so intently on something to the extent that reality, space and time seem to fade into the background. But we only get into this zone when we’re faced with adversity. There must be a challenge that is just the right level of difficulty. Not too much so that we are paralysed into inaction. But just enough so feel like we’re doing something meaningful. Something new. This is what it is like to be “Fearcited”.
 
 > “Of all the virtues we can learn no trait is more useful, more essential for survival, and more likely to improve the quality of life than the ability to transform adversity into an enjoyable challenge.” - Mihaly Csikzentmihalyi
 
+## Fearcited and Practice
 Another interesting idea is [Deliberate Practice] which I read about in the research of Prof. Anders Ericsson. He asks the question how do the best of the best in their fields make it to the top. How did Roger Federer become the best tennis player in the world? Or Magnus Carlsen reach the pinnacle of chess? The answer: they practice what they find difficult. They search for players who are better than them to learn from. They don’t sit back and enjoy their victories but are alway striving for more. They become accustomed to being “Fearcited!” So it seems that if you can learn to live with this feeling then you will go far. 
 
 > “The reason that most people don’t possess these extraordinary physical capabilities isn’t because they don’t have the capacity for them, but rather because they’re satisfied to live in the comfortable rut of homeostasis and never do the work that is required to get out of it. They live in the world of “good enough.” The same thing is true for all the mental activities we engage in,” - K. Anders Ericcson
