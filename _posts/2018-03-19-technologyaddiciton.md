@@ -134,6 +134,8 @@ Finding this kind of difficult to achieve because I’m always using messages to
 ### 6. Eradicate All Notifications
 The first thing to do to tackle technology addictions is to eradicate all notifications. These notifications are basically companies saying: “Come back and spend time with meee!”. If you have notifications **on** then you’re basically letting these companies, who’s primary motive is to keep you distracted so they can make a profit, determine how you spend your time.
 
+Here's a [guide](https://trendblog.net/turn-off-notifications-android-ios/) to turning off notifications on ios and android.
+
 Success: **10 / 10**
 
 Ditching notifications is vital for not being constantly distracted.
@@ -163,6 +165,6 @@ Success: **4/10**
 
 This was useful to think about when technology was actually adding value to my life. But because technology addiction is a habit most of the time you end up using technology without any conscious process. So the flow chart doesn’t actually help.
 
-## The Craftsmen Approach to Technology.
-In general all of these approaches encapsulate the “Craftsmen Approach”. This idea, that I discovered in Cal Newport’s book [Deep Work](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52/ref=sr_1_1?ie=UTF8&qid=1521458827&sr=8-1&keywords=cal+newport+deep+work), is that instead of accepting all technology as positive, we should deliberately choose technology as a “tool to achieve a job”. A carpenter might have a particular saw for a particular job. Likewise, we should use facebook for a particular job. i.e. as a tool for managing just our events. Or just our messages. But we should work to keep it just for that job and not let it take over all aspects of our lives.
+## The Craftsman Approach to Technology.
+In general all of these approaches encapsulate the “Craftsman Approach”. This idea, that I discovered in Cal Newport’s book [Deep Work](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52/ref=sr_1_1?ie=UTF8&qid=1521458827&sr=8-1&keywords=cal+newport+deep+work), is that instead of accepting all technology as positive, we should deliberately choose technology as a “tool to achieve a job”. A carpenter might have a particular saw for a particular job. Likewise, we should use facebook for a particular job. i.e. as a tool for managing just our events. Or just our messages. But we should work to keep it just for that job and not let it take over all aspects of our lives.
 
