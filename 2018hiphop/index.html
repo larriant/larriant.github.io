@@ -1,0 +1,15 @@
+---
+layout: page
+title: 2018 Hip Hop Albums
+---
+<p>2018 has already had some great hip hop albums! </br> Here are my favourite albums so far!</p>
+{% for album in site.data.2018hiphop %}
+<div class="list">
+  <img src="/public/2018hiphop/{{ album.Image }}" />
+  <div class="text">
+  <p><b>Title:</b> {{ album.Album }}</p>
+  <p><b>Artist:</b> {{ album.Artist }}</p>
+  <p><b>Best Rhyme:</b> "{{ album.BestLine }}"</p>
+  </div>
+</div>
+{% endfor %}
