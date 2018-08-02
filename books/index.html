@@ -1,0 +1,31 @@
+---
+layout: page
+title: Books
+---
+<p>Tiny summary but detailed notes for each. </p>
+
+<p>This page will constantly update as I read more, so bookmark it if you want to check back in a few months.</p>
+
+<p>Sorted with my top recommendations up top. Sort by <a>title</a>, <a>newest</a>, or <a>best</a>.</p>
+
+<form action="https://duckduckgo.com/" method="get">
+  <label for="q">Search these books:</label>
+	<input type="text" name="q" value="">
+	<input type="hidden" name="sites" value="julyandavey.com/books">
+	<input type="hidden" name="ia" value="web">
+	<input type="submit" value="search">
+</form>
+
+{% assign sortedBooks = site.data.books | where: 'Active', 'true' | sort: 'Rating' | reverse %}
+{% for book in sortedBooks %}
+<div class="bookList">
+  <div class="bookText">
+    <a href="/books/{{ book.Slug }}"><img class="bookImage" src="/public/books/{{ book.Image }}" alt="{{ book.Title }}"/></a>
+    <h3 class="bookTitle"><a href="/books/{{ book.Slug }}">{{ book.Title }}</a></h3>
+    <p class="bookDateRead"><b>Date Read:</b> {{ book.DateRead }}</p>
+    <p class="bookRating">My rating: <b>{{ book.Rating }}</b>/10</p>
+    <p class="bookSummary">{{ book.Summary }}</p>
+		<p class="bookLinks"><b><a href="/books/{{ book.Slug }}">Read my notes</a></b>, or go to the <a href="{{ book.AmazonLink }}">Amazon page</a> for details and reviews.
+  </div>
+</div>
+{% endfor %}
