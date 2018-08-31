@@ -6,7 +6,7 @@ title: Building a Second Brain
 ![Second Brain]({{ site.url}}/public/mysecondbrain/brain.jpg){:class="book-images"}
 
 # Building a Second Brain
-In [Part 1](http://julyandavey.com/2018/05/22/secondbrain/) I explained why I’m trying to build a Second Brain or Zettelkasten and what features it needs to have.
+In [Part 1](/2018/05/22/secondbrain/) I explained why I’m trying to build a Second Brain or Zettelkasten and what features it needs to have.
 
 I’ve now spent a couple of weeks experimenting with different solutions and now want to present to you my Second Brain Version 1.0.
 
