@@ -73,9 +73,12 @@ ul ul {
 }
 
 .book-images {
-  height: 300px;
-  margin: auto;
-  margin-bottom: 50px;
+  margin: 20px auto;
+	height: 300px;
+
+  @media (max-width: 800px) {
+		height: auto;
+  }
 }
 
 .post h3 {

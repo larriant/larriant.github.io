@@ -18,7 +18,7 @@ Now I will explain why I think technology classifies.
 ## Why technology is addictive?
 If you’re between 18 and 24 the data says that you look at your phone  *on average* 74 times per day. 35% of people admit that their phone is the first thing they think of when they wake up. Only 10% think of their partner!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5qJjNM2Kx0?rel=0&amp;start=6040;end=6058" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Q5qJjNM2Kx0?rel=0&amp;start=6040;end=6058" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Take a look at a minute of this video from the documentary _Stare Into The Lights My Pretties_. I don’t think you can watch that clip and not think we’re all addicted. We’ve been trained in the same way as that rat to constantly seek the dopamine hit of technology. 
 
