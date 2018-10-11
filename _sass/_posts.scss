@@ -81,6 +81,15 @@ ul ul {
   }
 }
 
+.other-images {
+  margin: 20px auto;
+  padding: 20px;
+
+  @media (max-width: 800px) {
+		height: auto;
+  }
+}
+
 .post h3 {
   margin-top: 0.5rem;
 }
