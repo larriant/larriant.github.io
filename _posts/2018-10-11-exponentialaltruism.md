@@ -28,17 +28,17 @@ On the far side of the abyss, is the dramatically better world we should be aimi
 
 At present, we’re a seriously unsteady, unfocussed, and uncoordinated tightrope walker. Indeed, most of us aren’t even aware of the tightrope crisis. Those of us who are feel powerless to help. Even fewer people have ideas about how we can work together to get out of this alive — or at best, unscathed.
 
-So making our way across the tightrope is the biggest fucking challenge but also the biggest fucking opportunity of our time.
+So making our way across the tightrope is the **biggest fucking challenge** but also the **biggest fucking opportunity** of our time.
 
 So for a while we’ve been asking the question: what needs to change to help humanity get through this cataclysmic transition and make progress along the tightrope?
 
-Attempting to answer this question has led us to the concept of operating systems. An operating system is the values, beliefs and tools of a society. It is like the “big stick” that the tightrope walker is holding to stay balanced as she is battered by the winds of change.
+Attempting to answer this question has led us to the concept of **operating systems**. An operating system is the values, beliefs and tools of a society. It is like the “big stick” that the tightrope walker is holding to stay balanced as she is battered by the winds of change.
 
 We are converging towards a truly global society, economy and culture — so it’s not just the operating system of the UK or of Egypt that matters, but of the planet as a whole. The modern operating system has given rise to institutions that span the entire globe, and with them, an increasingly connected international civilisation.
 
 
 ![Which operating system for the planet?]({{ site.url}}/public/exponentialaltruism/operatingsystem.jpeg){:class="book-images"}
-The problem is that our current operating system is fucking everything up. It is the root cause behind many of today’s pressing crises. For example, some of the values inherent in the current operating system — materialism, the profit motive, an obsession with growth, meritocracy, individualism, devaluing natural environments and seeing them only as resources — have created a global economy driven by insatiable consumption of finite resources. This is inherently unsustainable and destabilising. Eventually we’re going to run out of the rare metals needed for your iPhone, the fossil fuel reserves will dry up, and ancient rainforests will be decimated beyond repair…
+The problem is that **our current operating system is fucking everything up**. It is the root cause behind many of today’s pressing crises. For example, some of the values inherent in the current operating system — materialism, the profit motive, an obsession with growth, meritocracy, individualism, devaluing natural environments and seeing them only as resources — have created a global economy driven by **insatiable consumption of finite resources**. This is inherently unsustainable and destabilising. Eventually we’re going to run out of the rare metals needed for your iPhone, the fossil fuel reserves will dry up, and ancient rainforests will be decimated beyond repair…
 
 > “Anyone who believes in indefinite growth on a finite planet, is either mad or an economist.”― Kenneth Boulding
 We can’t carry on like this.
@@ -53,19 +53,19 @@ How can we make progress towards finding and developing a new operating system?
 
 Imagine if in every city in the world, there was an active community of creative, entrepreneurial people united by an ethic of altruism, collaborating on impactful projects to build the new operating system.
 
-This is the vision of Exponential Altruism: the combination of an ethic of altruism spread through the revolutionary power of small groups.
+This is the vision of **Exponential Altruism**: the combination of an ethic of altruism spread through the revolutionary power of small groups.
 
-A switch to altruism is vital to replace the current operating system’s self-interested, consumerist values with a mindset of contribution — working for the good of all. This is an improvement in two ways:
+A switch to **altruism** is vital to replace the current operating system’s self-interested, consumerist values with a **mindset of contribution** — working for the good of all. This is an improvement in two ways:
 
 It would vastly increase the number of people confronting the global crises and attempting to steer the revolutions in a positive direction.
 These people would find a new source of deeper meaning and fulfilment rendering the consumerist lifestyle obsolete. It doesn’t destroy the planet, but actually fixes it. Win-win scenario, really.
 Only with millions of people acting in this way do we have a hope of a successful transition to a new world.
 
-The second piece of the puzzle is the revolutionary power of small groups. To really spread this new mindset and for these people to actually have a significant positive impact: they will need to collaborate.
+The second piece of the puzzle is the **revolutionary power of small groups.** To really spread this new mindset and for these people to actually have a significant positive impact: they will need to collaborate.
 
 It’s very difficult for an individual to have an impact on these big challenges. In turn, governments and large corporations are far too slow to respond to the rapid changes of the modern world — humans simply aren’t designed to work in groups of this size. They struggle to innovate and to understand the complexity of technology and society, because everything moves too quickly.
 
-The small group is positioned perfectly between the individual and society— they are able to help individuals in an intimate way, but are also large enough to instigate top-down changes, for example by campaigning for new policies. They’re a sweet spot for introducing change.
+The small group is positioned perfectly between the individual and society— they are able to help individuals in an intimate way, but are also large enough to instigate top-down changes, for example by campaigning for new policies. They’re a **sweet spot** for introducing change.
 
 We already know this — it is the reason for the global startup and entrepreneurship explosion. But this explosion is primarily profit-driven. Imagine a new wave of startups, social enterprises and activist groups motivated by a vision of a flourishing humanity.
 
@@ -82,9 +82,9 @@ For now, we can say that four important steps towards the new operating system w
 * an ecological consciousness — treating other conscious beings and planet earth itself as ends in themselves rather than just resources for humanity. [^10]
 * a move towards decentralisation— enabling autonomy, self-governance, removal of dominance hierarchies and weakening coercive power structures like multinational corporations and nation states.[^11]
 
-To realise these visions these groups should adopt a diversity of methods. Many groups limit themselves to just one method like protesting, e.g. vegan activist groups. To bring about this new operating system, projects would need to take different forms— social enterprises, art projects, volunteer collectives, new technologies, charities, petitions and protests… the possibilities are limitless. A diverse approach like this would also attract a wide diversity of people under the broad banner of changing our global operating system.
+To realise these visions these groups should adopt a *diversity of methods*. Many groups limit themselves to just one method like protesting, e.g. vegan activist groups. To bring about this new operating system, projects would need to take different forms— social enterprises, art projects, volunteer collectives, new technologies, charities, petitions and protests… the possibilities are limitless. A diverse approach like this would also attract a wide diversity of people under the broad banner of changing our global operating system.
 
-The groups would also need to think global but act local. By this we mean recognising the global crises and revolutions we face and how a new operating system can help, but at the same time trying to solve these issues at a local level because this is where people can work as communities to have a bigger impact. This is particularly important in the West where many of the problems of the current operating system originate, and where we have unprecedented resources for tackling them.
+The groups would also need to **think global but act local**. By this we mean recognising the global crises and revolutions we face and how a new operating system can help, but at the same time trying to solve these issues at a local level because this is where people can work as communities to have a bigger impact. This is particularly important in the West where many of the problems of the current operating system originate, and where we have unprecedented resources for tackling them.
 
 To get you inspired, here are some example projects these groups could work on:
 
@@ -97,8 +97,8 @@ If we’re to replace our current, obsolete operating system, then a vital part 
 
 So how would these local projects scale up, add together, and contribute to an exponentially growing new operating system? Here are a few ideas:
 
-* Firstly, acts of altruism have been shown to naturally multiply as they spread through networks.[^12] When individuals benefit from an act of altruism, they not only act similarly towards others in the future, but actually show more generosity than they initially received.
-* Secondly, some projects of the groups would actively begin to remove the hindrances to altruism that are built into the current operating system. For example, spaces where people could express themselves openly and support others, such as in the group therapy session discussed above, would help people realise their own potential for contribution and engagement. Helping them leave behind a system that incentivised self-interested behaviour.
+* Firstly, acts of altruism have been shown to **naturally multiply** as they spread through networks.[^12] When individuals benefit from an act of altruism, they not only act similarly towards others in the future, but actually show more generosity than they initially received.
+* Secondly, some projects of the groups would **actively** begin to remove the hindrances to altruism that are built into the current operating system. For example, spaces where people could express themselves openly and support others, such as in the group therapy session discussed above, would help people realise their own potential for contribution and engagement. Helping them leave behind a system that incentivised self-interested behaviour.
 * As a result of engaging in these contribution-driven projects, individuals would feel a whole new sense of meaning, community, fun and learning that they simply weren’t getting before.¹³ These positive effects would naturally encourage friends, family and colleagues to join.
 * Lastly, digital technology is already on an exponential trajectory. Taking advantage of these change would help the groups to grow rapidly and scale without limit. For example, connecting local groups in a global network would speed up the rate at which the movement can gather new members as well as share their ideas and expertise. The collective knowledge, intelligence and experience that can grow from such a global network will strengthen it immensely.
 
@@ -107,13 +107,13 @@ We are ultimately driven by the question: how can we make it easier to be altrui
 
 Countless people yearn to help the world, but simply do not know how. What they don’t have is an organisation that helps them make the transition from a life in the unsatisfactory consumer economy to the deep fulfilment and community of the contribution-oriented economy.
 
-We aim to create that organisation — a feeder from the old to the new operating system that allows people’s natural drive to change the world to take roots and flourish.
+We aim to create that organisation — **a feeder from the old to the new operating system** that allows people’s natural drive to change the world to take roots and flourish.
 
 Imagine having an idea for a project that would help your local community, and knowing that you could approach a group in your town or city that would help you develop the idea, lend their skills, and provide people power for the cause. That wherever you went in the world, you could find these kinds of projects and lend a hand, an idea, or a day of work… and while you were at it you could make friends for life, find a skill you loved to do — and a cause you really believe in.
 
 Wouldn’t that be good for you, and the world?
 
-Through this publication, we’re exploring how an organisation might do exactly that, using small groups united by an ethic of altruism to seed a new operating system. As it stands, this is the core plan of Exponential Altruism.
+Through this publication, we’re exploring how an organisation might do exactly that, using **small groups united by an ethic of altruism** to seed a new operating system. As it stands, this is the core plan of Exponential Altruism.
 
 Subscribe to see where these ideas will take us and get in touch to share your ideas, criticisms and experiences. We’re not claiming to have the answers, but are committed to searching for them and sharing everything we learn in the process.
 
