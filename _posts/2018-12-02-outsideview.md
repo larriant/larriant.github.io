@@ -75,7 +75,7 @@ But Julyan you say! If all we have to do to change the world is to take the outs
 
 If only it were that easy. Unfortunately there are many forces in today’s society that conspire to prevent the outside view from ever being fully realised.
 
-It starts very young with our education system. One way to look at schools is as places where naturally curious, artistic and weird kids are sent to force them to cohere to the culture of the adult world. What did you learn in school? “Facts”? What they mean by facts are the things that our culture has found to be correct. Some of these facts are helpful and do of course work. Maths helps you build bridges. But we’re never taught the ability to question that knowledge or the culture that produced it.
+It starts very young with our education system. One way to look at schools is as places where naturally curious, artistic and weird kids are sent to force them to adhere to the culture of the adult world. What did you learn in school? “Facts”? What they mean by facts are the things that our culture has found to be correct. Some of these facts are helpful and do of course work. Maths helps you build bridges. But we’re never taught the ability to question that knowledge or the culture that produced it.
 
 Peer pressure in schools also forces children into the cultural mould. For example many feminist writers have discussed how societies gender norms are imprinted in the playground. By the end of school most kids have come to accept the cultural norms of our era. Instead, we need an education system where the outside view is at the heart of the curriculum. Where questioning, curiosity and difference are celebrated above all else.
 
