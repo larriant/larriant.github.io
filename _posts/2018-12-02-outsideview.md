@@ -33,7 +33,7 @@ Our society tells us that this is beautiful:
 ![Our Beauty]({{ site.url}}/public/outsideview/ourbeauty.jpeg){:class="book-images"}
 
 
-But the Kayan tribe in North Arizona think this is beauty:
+But the Kayan tribe in Myanmar think this is beauty:
 ![Kayan Beauty]({{ site.url}}/public/outsideview/kayanbeauty.jpeg){:class="book-images"}
 
 
