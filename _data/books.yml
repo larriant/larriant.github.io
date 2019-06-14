@@ -79,6 +79,7 @@
   Image: seeingthatfrees.jpg
   Summary: "I wanted to get to the bottom of the buddhist concept of emptiness. Burbea's book did that and more. Reading it is a meditation in itself. A slow peeling back of the onion layers of self and world."
   Active: true
+
 - Title: "Active Hope by Joanna Macy"
   Slug: activehope	
   DateRead: 03/06/19
@@ -86,4 +87,13 @@
   AmazonLink: https://www.amazon.co.uk/Active-Hope-without-Going-Crazy/dp/1577319729/ref=sr_1_1?keywords=Active+Hope&qid=1559555066&s=gateway&sr=8-1
   Image: activehope.jpg
   Summary: "How should we respond to the possibility that humanity faces imminent collapse due to the climate and ecological crisis? Joanna Macy provides a framing to collapse to help avoid either denial or acceptance. To help us live with the uncertainty we face and contribute to a better world."
+  Active: true
+
+- Title: "Out of the Wreckage by George Monbiot"
+  Slug: outofthewreckage 
+  DateRead: 14/06/19
+  Rating: 7
+  AmazonLink: https://www.amazon.co.uk/Out-Wreckage-New-Politics-Crisis/dp/1786632888
+  Image: outofthewreckage.jpeg
+  Summary: "What is the new story that can overthrow neoliberalism and create a kinder world? Monbiot thinks the answer lies in returning to community and belonging. And he suggests the poltics and economics that can get us there!"
   Active: true
