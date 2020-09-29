@@ -1,0 +1,48 @@
+---
+layout: post 
+title: How We Run Away
+---
+
+![Running Away]({{ site.url}}/public/runningaway.jpeg){:class="book-images"}
+
+We are all running away from reality.
+
+**Most of the things we do as 21st century humans amount to pain avoidance.**
+
+We lose ourselves in social media, Netflix and celebrity culture to avoid the pain in our own lives and in the world around us.
+
+We drink and take drugs to make ourselves feel better for a short while. To give us a break from the onslaught of life.
+
+We work flat out 60 hours a week so we have no time to stop and contemplate. No time to confront existence.
+
+Some of us are lost in love. Using sex or the intimacy of love to shield ourselves away from the world. To pretend that everything is okay.
+
+Some of us get lost in the intellectual world to avoid our emotions. We are constantly creating stories to explain our lives instead of confronting the simple emotional truths of our existence.
+
+We have meaningless surface level conversations to avoid facing the difficult truths about our relationships with each other. In every relationship there is a conversation waiting to be had. But we run away.
+
+We keep on buying more and more stuff. Clothes, shoes, technology. We are always chasing the next thing. The next pay rise. The next holiday. Why? Because it is too painful to be in the present. So we run away.
+
+We even support each other in running away by creating a negativity phobic culture. Often to be liked or seen as successful we must pretend to be positive; pretend that everything is going fine and dandy. We support this collective avoidance that pushes the difficult truths away from us so we can avoid facing them ourselves. Put on a sad song and often people will say “That’s so depressing, do we have to listen to this?”. Why? Because the sad song would remind them of the pain they are running away from.
+
+**But what are we running away from?**
+
+We run away from the world we’ve built. A world of homeless people on every corner. A world of life dying all around us in the sixth mass extinction event. A world that is already paying the price of decades of rising carbon emissions and ecosystem destruction; deep down we know much worse is on the way. A world of sweatshops. Of forced or wage slave labour making our food and clothes. A world of deep unfairness, where the 6 richest men have more wealth than the bottom 3.6 billion people. A world where we (the white westerner) have been plundering the Global South for centuries. And we show no sign of stopping. We run away from this pain all around us.
+
+We run away from how isolated and separate we really feel. We live disconnected from the natural world and disconnected from each other. Many live lonely lives, largely without community. We carry around the wounds from this separation in the form of trauma. We don’t believe we are any good. In fact many of us come to believe we are worthless. We carry around the scars of war, oppression and living in an unfair, uncaring system. If we just stopped for long enough, eventually these traumas would show their ugly head and we would be forced to confront them. But doing so would put us through hell while we processed them. So we run away.
+
+We run away from the fact that one day we will die and what that means for our life right now in the present. No-one knows what happens after death. That uncertainty is terrifying. Contemplating death puts your life into perspective. It goads you into questioning whether how you are living now is in alignment with the fact that one day you will no longer be here. Many people are unhappy with how they are living so this questioning would prompt them to realise how deeply unsatisfied they are with life. Instead they choose to run away. They stay on the treadmill of life and remember not to ask too many questions.
+
+We run away from existential terror. For many of us God no longer plays a large role in our lives. As Nietzsche pronounced: “God is dead and we killed him”. Without God we are free to create ourselves and existence presents a vast world of possibility. That freedom is terrifying. Without God we are adrift, floating down stream, without anything to hold onto. Instead of confronting that existential angst we bury ourselves in our lives and never confront our freedom.
+
+If we were to confront reality in all of its tragedy, many of us would be swallowed up in its torrent. We look away to save ourselves and who’s to blame us. Most of us need to look away just to stay sane. But if we are to start confronting the problems of the world then we are going to need to start peeling back our fingers to take a glimpse.
+
+**I believe that spirituality is the skill of learning to look reality in the eye and not flinch.**
+
+Spirituality isn’t about everything always being good. Or achieving a state where all you do is smile, like the members of some cultish guru tribe. No! It’s about building the inner resources to let you look deeply into the toilet bowl of reality.
+
+Some forms of spirituality focus on our freedom to create our own stories. They say that how reality is, is always dependent upon how we look at it. We are free to write narratives different to those expected of us by society. That’s incredibly liberating. But often this power can be used to ignore the tragedy of life. For example when contemplating the ecological crisis it is very easy to change the narrative to make the problem go away. For example, one could say that given cosmological timescales, it doesn’t really matter so much. The Earth will still be okay. But in doing this we avoid the thing that is most relevant to lives on Earth right now. Spirituality isn’t about being able to escape the pain of our world by narrative switching. But instead learning to deal with the pain of even the most difficult narratives.
+
+You might worry that if you looked openly at the darker aspects of our world you would just be depressed the whole time. But I believe there is something beyond grief. Grief takes us on a long winding path towards beauty. And the beauty found is ever so precious. For example, when we contemplate the destruction of wildlife on Earth we realise how much we care about what is being lost and we have the opportunity to valiantly protect it. This is real beauty.
+
+So wherever you are, peel back a few fingers from your eyes and look out at the truths of our existence before you. It is only by looking at the darkness in the world that we can hope to move towards the light.
