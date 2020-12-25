@@ -1,6 +1,6 @@
 .aboutme {
   @media (max-width: 600px) {
-    padding-left: 35px;
+    padding-left: 25px;
   }
 }
 
@@ -10,7 +10,13 @@
 
 .recent-posts {
   @media (max-width: 600px) {
-    padding-left: 35px;
+    padding-left: 25px;
+  }
+}
+
+.my-offerings {
+  @media (max-width: 600px) {
+    padding-left: 25px;
   }
 }
 
@@ -146,4 +152,14 @@ small {
 .offeringimage {
   width: 400px;
   margin: auto;
+  margin-bottom: 30px;
+}
+
+.videoIframe {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.listItem {
+  padding-bottom: 5px;
 }

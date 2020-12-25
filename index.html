@@ -23,10 +23,10 @@ title: Home
 
 <div class="section recent">
   <h1 class="post-title">My Articles</h1>
-  <p>My musings on Life, Philosophy and Society</p>
+  <p>My musings on Life, Philosophy and Society.</p>
   <ul class="recent-posts">
     {% for post in site.posts limit: 3 %}
-    <li>
+    <li class="listItem">
       <a class="post-titles" href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
@@ -36,17 +36,17 @@ title: Home
      </li>
        {% endfor %}
   </ul>     
-  <a href="{{ site.baseurl }}/allrecent">(See All)</a>
+  <a href="{{ site.baseurl }}/allrecent">(See All My Articles)</a>
 </div>
   
 <div class="section">
   <h1>My Offerings</h1>
   <img class="offeringimage" src="{{ site.baseurl }}/public/ritual.jpg" / >
   <p>I offer:</p>
-  <ul>
-    <li>Emotional Healing Processes (from <a href="https://possibilitymanagement.org/">Possibility Management</a>)</li>
-    <li>Conflict Facilitation Processes (from <a href="https://www.mediate.com/articles/lasaterstiles4.cfm">NVC Mediation</a>)</li>
-    <li>Conflict Support</li>
+  <ul class="my-offerings">
+    <li class="listItem">Emotional Healing Processes (from <a href="https://possibilitymanagement.org/">Possibility Management</a>)</li>
+    <li class="listItem">Conflict Facilitation Processes (from <a href="https://www.mediate.com/articles/lasaterstiles4.cfm">NVC Mediation</a>)</li>
+    <li class="listItem">Conflict Support</li>
   </ul>     
   <p>I do this work on the gift economy. Support me <a href="https://paypal.me/julyandavey">here</a>.</p>
 </div>
@@ -61,12 +61,12 @@ title: Home
 
 <div class="section">
   <h1>Talks, Workshops & Podcasts</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1cDC0Ialn-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="videoIframe" width="560" height="315" src="https://www.youtube.com/embed/1cDC0Ialn-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>This is a list of talks, workshops and podcast interviews I have given.</p>
   <ul>
-    <li><a href="{{ site.baseurl }}/2020/02/18/lifeaffirming/">Meta-Crisis Talk</a> at the London <a href="https://www.facebook.com/whatisemerging">Emerge Meetup</a>. <small><time>18th Feb 2020</time></small></li>
-    <li><a href="https://anchor.fm/thephoenixproject/episodes/Crisis--Consciousness-Raising-and-Musical-Chairs-ea8bbs">Crisis, Consciousness Raising and Musical Chairs</a> on the <a href="https://anchor.fm/thephoenixproject">The Phoenix Project Podcast</a>. <small><time>20th Jan 2020</time></small></li>
-    <li><a href="https://www.thephoenixproject.site/reclaimingutopia/">Imagining Utopia Workshop</a> at <a href="https://edgeryders.eu/">Edgeryders</a> Sci-Fi Econ Event. <small><time>11th Nov 2019</time></small></li>
+    <li class="listItem"><a href="{{ site.baseurl }}/2020/02/18/lifeaffirming/">Meta-Crisis Talk</a> at the London <a href="https://www.facebook.com/whatisemerging">Emerge Meetup</a>. <small><time>18th Feb 2020</time></small></li>
+    <li class="listItem"><a href="https://anchor.fm/thephoenixproject/episodes/Crisis--Consciousness-Raising-and-Musical-Chairs-ea8bbs">Crisis, Consciousness Raising and Musical Chairs</a> on the <a href="https://anchor.fm/thephoenixproject">The Phoenix Project Podcast</a>. <small><time>20th Jan 2020</time></small></li>
+    <li class="listItem"><a href="https://www.thephoenixproject.site/reclaimingutopia/">Imagining Utopia Workshop</a> at <a href="https://edgeryders.eu/">Edgeryders</a> Sci-Fi Econ Event. <small><time>11th Nov 2019</time></small></li>
   </ul>     
 </div>
 
