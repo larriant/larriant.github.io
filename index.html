@@ -9,6 +9,32 @@ title: Home
 
 <div>
   <div class="section">
+    <h1>Upcoming Offerings</h1>
+    <a href="https://teamup.com/event/show/id/Zf3RbZ5tstYrEUC2HgsiiL6asraWDq"><img class="offeringscroll" src="{{ site.baseurl }}/public/betrayal.png" /></a>
+    <a href="https://www.facebook.com/events/283342159912989/"><img class="offeringscroll" src="{{ site.baseurl }}/public/rageclub.png" /></a>
+    <p>Click on the images for more information.</p>
+  </div>       
+  <hr>
+
+  <div class="section">
+    <h1>Other Offerings</h1>
+    <img class="offeringimage" src="{{ site.baseurl }}/public/ritual.jpg" / >
+    <p>I offer:</p>
+    <ul class="my-offerings">
+      <li class="listItem">Emotional Healing Processes (from <a href="https://possibilitymanagement.org/">Possibility Management</a>)</li>
+      <li class="listItem">Conflict Facilitation Processes (from <a href="https://www.mediate.com/articles/lasaterstiles4.cfm">NVC Mediation</a>)</li>
+      <li class="listItem">Non Violent Communication Coaching</li>
+      <li class="listItem">Conflict Support</li>
+    </ul>     
+    <p>I do this work on the gift economy. Support me <a href="https://paypal.me/julyandavey">here</a>.</p>
+    <hr>
+    <img class="offeringimage" src="{{ site.baseurl }}/public/tct.jpg" / >
+    <p>Every Tuesday from 1-2:30pm I will hold space for a <b>Transformative Cultures Team</b> to explore embracing transformative, life-affirming cultures within our lives and circles.</p>
+    <p>Join this <a href="https://t.me/joinchat/h-abpv2Bkhc1YTJk">Telegram Group</a> for more regular updates and to receive the zoom links each week.</p>
+  </div>
+  <hr>
+
+  <div class="section">
   <h1 class="">About Me</h1>
   <p>Hi! I'm Julyan. Here's what I'm up to at the moment: </p>
   <ul class="aboutme">
@@ -21,36 +47,23 @@ title: Home
   <a href="{{ site.baseurl }}/oldme">(Things I used to do)</a>
   </div>
 
-<div class="section recent">
-  <h1 class="post-title">My Articles</h1>
-  <p>My musings on Life, Philosophy and Society.</p>
-  <ul class="recent-posts">
-    {% for post in site.posts limit: 3 %}
-    <li class="listItem">
-      <a class="post-titles" href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-      <small>
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-      </small>
-     </li>
-       {% endfor %}
-  </ul>     
-  <a href="{{ site.baseurl }}/allrecent">(See All My Articles)</a>
-</div>
-  
-<div class="section">
-  <h1>My Offerings</h1>
-  <img class="offeringimage" src="{{ site.baseurl }}/public/ritual.jpg" / >
-  <p>I offer:</p>
-  <ul class="my-offerings">
-    <li class="listItem">Emotional Healing Processes (from <a href="https://possibilitymanagement.org/">Possibility Management</a>)</li>
-    <li class="listItem">Conflict Facilitation Processes (from <a href="https://www.mediate.com/articles/lasaterstiles4.cfm">NVC Mediation</a>)</li>
-    <li class="listItem">Conflict Support</li>
-  </ul>     
-  <p>I do this work on the gift economy. Support me <a href="https://paypal.me/julyandavey">here</a>.</p>
-</div>
-
+  <div class="section recent">
+    <h1 class="post-title">My Articles</h1>
+    <p>My musings on Life, Philosophy and Society.</p>
+    <ul class="recent-posts">
+      {% for post in site.posts limit: 3 %}
+      <li class="listItem">
+        <a class="post-titles" href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+        <small>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+        </small>
+      </li>
+      {% endfor %}
+    </ul>     
+    <a href="{{ site.baseurl }}/allrecent">(See All My Articles)</a>
+  </div> 
 </div>
 
 
@@ -81,24 +94,6 @@ title: Home
     <a class="favicon" href="https://www.goodreads.com/user/show/22672274-julyan-davey"><img src="./public/goodreads.png" height="40px"></a>
     <a class="favicon" href="{{ site.baseurl }}/atom.xml"><img src="./public/rss.png" height="40px"></a>
   </div>
-
-  <!-- Begin MailChimp Signup Form -->
-  <!-- <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">-->
-  <!-- <style type="text/css">-->
-  <!-- </style>-->
-  <!-- <div id="mc_embed_signup">-->
-  <!--   <form action="//julyandavey.us10.list-manage.com/subscribe/post?u=8200d05bb4733d2846de99871&amp;id=5c981a2121" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>-->
-  <!--     <div id="mc_embed_signup_scroll">-->
-  <!--       <label id="formTitle" for="mce-EMAIL">Join my newsletter</label>-->
-  <!--       <label id="formSubtitle" for="mce-EMAIL">Be the first to get notified on my new blogs posts!</label>-->
-  <!--       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email" required>-->
-  <!--       <1!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--1>-->
-  <!--       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8200d05bb4733d2846de99871_5c981a2121" tabindex="-1" value=""></div>-->
-  <!--       <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>-->
-  <!--     </div>-->
-  <!--   </form>-->
-  <!-- </div>-->
-  <!--End mc_embed_signup-->
 </div>
   
   
