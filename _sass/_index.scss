@@ -158,7 +158,14 @@ small {
 .offeringscroll {
   width: 347px;
   padding: 10px;
-  display: inline-block;
+  display: block;
+  margin: auto;
+}
+
+.myarticles {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 30px;
 }
 
 .videoIframe {
@@ -168,4 +175,7 @@ small {
 
 .listItem {
   padding-bottom: 5px;
+}
+
+.brightprinciples {
 }
