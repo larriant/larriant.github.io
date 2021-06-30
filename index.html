@@ -47,7 +47,7 @@ title: Home
 
   <div class="section recent">
     <!-- <h1 class="post-title">My Articles</h1> -->
-    <img class="myarticles" src="{{ site.baseurl }}/public/myarticles.png" / >
+    <a href="{{ site.baseurl }}/allrecent"><img class="myarticles" src="{{ site.baseurl }}/public/myarticles.png" / >
     <p>My musings on Life, Philosophy and Society.</p>
     <ul class="recent-posts">
       {% for post in site.posts limit: 3 %}
@@ -68,8 +68,8 @@ title: Home
 
 
 <div class="section booknotes">
-  <img class="myarticles" src="{{ site.baseurl }}/public/mybooknotes.png" / >
-  <p>I write notes on the books that I read. <a href="/books">Check them out!</a></p>
+  <a href="{{ site.baseurl }}/books"><img class="myarticles" src="{{ site.baseurl }}/public/mybooknotes.png" / ></a>
+  <p>I write notes on the books that I read. <a href="{{ site.baseurl }}/books">Check them out!</a></p>
 </div>
 <hr>
 
